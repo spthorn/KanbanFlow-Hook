@@ -49,7 +49,7 @@ Once you get the expected response, verify that your KanbanFlow task contains a 
 ## TODO
 
 1. Modify the code to support non-swimlanes, i.e. github repository name = board name
-
+2. Add support for multiple tags in commit message
 
 
 
